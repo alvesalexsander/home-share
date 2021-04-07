@@ -1,8 +1,0 @@
-.top-bar {
-    height: 60px;
-    background-color: rgb(26, 0, 97);
-    color: #ddd;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
